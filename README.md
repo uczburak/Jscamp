@@ -1,3 +1,3 @@
 # Jscamp
 
-  Simple projects that written by JavaScript.
+  Simple projects that has been written by JavaScript.
