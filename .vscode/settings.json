@@ -1,0 +1,8 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "https": { "rejectUnauthorized": false }
+}
